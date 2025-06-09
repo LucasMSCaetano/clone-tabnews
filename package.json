@@ -1,7 +1,7 @@
 {
   "name": "clone-tabnews",
   "version": "1.0.0",
-  "description": "",
+  "description": "Implementação do https://www.tabnews.com.br para o https://curso.dev",
   "main": "index.js",
   "scripts": {
     "dev": "next dev",
@@ -10,9 +10,8 @@
     "test": "jest",
     "test:watch": "jest --watchAll"
   },
-  "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "next": "^13.1.6",
     "pg": "^8.11.3",
@@ -21,6 +20,6 @@
   },
   "devDependencies": {
     "jest": "^29.6.2",
-    "prettier": "^3.4.2"
+    "prettier": "^2.8.8"
   }
 }

@@ -1,10 +1,5 @@
-import RainbowText from "../components/RainbowText";
 function Home() {
-  return (
-    <div>
-      <RainbowText>resolvendo</RainbowText>
-    </div>
-  );
+  return <h1>Renata, eu amo você. Se você me ama, dá uma risadinha! 😎</h1>;
 }
 
 export default Home;
